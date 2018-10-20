@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 5632-1F04
+
+ Directory of C:\Users\chemistguy99\sliceVR
+
+10/20/2018  12:14 PM    <DIR>          .
+10/20/2018  12:14 PM    <DIR>          ..
+10/20/2018  12:14 PM                 0 hello.txt
+10/20/2018  12:13 PM               350 README.md
+               2 File(s)            350 bytes
+               2 Dir(s)   8,746,524,672 bytes free
